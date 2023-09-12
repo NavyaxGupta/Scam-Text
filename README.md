@@ -1,4 +1,4 @@
 # ScamText
-Phishing scam detector built using Swift
+iOS AI scam detector built using Swift. 
 
-Developed by Anvita Gollu, Navya Gupta, Joanna Zhan
+Developed by Navya Gupta (ai backend & frontend), Joanna Zhan (frontend), Anvita Gollu (frontend)
